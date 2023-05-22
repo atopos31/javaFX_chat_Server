@@ -1,5 +1,5 @@
 # HXchat--服务端
-## [客户端](github.com/atopos31/javaFX_chat)
+## [客户端](https://github.com/atopos31/javaFX_chat)
 ## 沈阳理工大学java课程设计--基于TCP协议的聊天软件
 使用hibernate操作mysql数据库，保存用户信息，jedis操作redis，保存验证码，使用json与客户端交互。
 *src/main/resources/hibernate.cfg.xml*
