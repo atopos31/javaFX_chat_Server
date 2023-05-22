@@ -11,9 +11,9 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import redis.clients.jedis.Jedis;
 
 public class Database {
-    String URL = "8.130.28.217";
+    String URL = "your servr address";
     int RedisPort = 6379;
-    String RedisPass = "980845";
+    String RedisPass = "your password";
     public static Jedis jedis;
     public static Session session;
     public void start() {

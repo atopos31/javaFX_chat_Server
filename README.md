@@ -10,3 +10,9 @@
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">980845</property>
 ```
+*org.example.database.Database*
+```
+    String URL = "your servr address";
+    int RedisPort = 6379;
+    String RedisPass = "your password";
+```
